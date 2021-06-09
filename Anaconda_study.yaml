@@ -1,0 +1,33 @@
+name: slam2test
+channels:
+  - pluraldatum
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - blas=1.0=openblas
+  - ca-certificates=2021.5.25=h06a4308_1
+  - certifi=2021.5.30=py36h06a4308_0
+  - ld_impl_linux-64=2.33.1=h53a641e_7
+  - libffi=3.3=he6710b0_2
+  - libgcc=7.2.0=h69d50b8_2
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libgfortran-ng=7.3.0=hdf63c60_0
+  - libopenblas=0.3.13=h4367d64_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.2=he6710b0_1
+  - numpy=1.17.0=py36h99e49ec_0
+  - numpy-base=1.17.0=py36h2f8d375_0
+  - opencv3=3.2.0=py36_0
+  - openssl=1.1.1k=h27cfd23_0
+  - pip=21.1.1=py36h06a4308_0
+  - python=3.6.13=hdb3f193_0
+  - readline=8.1=h27cfd23_0
+  - setuptools=52.0.0=py36h06a4308_0
+  - sqlite=3.35.4=hdfb4753_0
+  - tk=8.6.10=hbc83047_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
+prefix: /home/lichengwei/miniconda3/envs/slam2test
